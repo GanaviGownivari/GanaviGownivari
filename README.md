@@ -32,5 +32,3 @@
 
 </div>
 <br/><br/>
-
-![Snake animation](https://raw.githubusercontent.com/ganavigownivari/ganavigownivari/output/github-contribution-grid-snake-dark.svg)
