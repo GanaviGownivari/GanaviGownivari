@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **sql, git & Power BI**
 
-- 📫 How to reach me **ganavivijaykumar61@gmail.com**
+- 📫 How to reach me **ganavigownivari@gmail.com**
 
 - ⚡ Fun fact **Life is Beautiful but Conditions Apply✨**
 
